@@ -1,0 +1,11 @@
+# Blender v2.69 (sub 0) OBJ File: 'soldier_pretty4.blend'
+# www.blender.org
+mtllib nsoldier_hip_slot.mtl
+o Cube.002_Cube.001
+v 0.044012 0.749843 0.058236
+v -0.016156 0.847326 0.258082
+v 0.097969 0.443775 0.223780
+vn 0.953045 0.255735 0.162187
+usemtl None.003
+s off
+f 1//1 2//1 3//1

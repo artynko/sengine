@@ -1,0 +1,11 @@
+# Blender v2.69 (sub 0) OBJ File: 'gun_effect.blend'
+# www.blender.org
+mtllib nsoldier_hip_gun_effect.mtl
+o Cube.001_Cube
+v 0.283752 1.727386 -1.565009
+v 0.283752 1.497036 -1.565009
+v 0.349343 1.727387 -2.859062
+vn 0.998718 0.000000 0.050621
+usemtl None.002
+s off
+f 1//1 2//1 3//1

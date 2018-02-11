@@ -1,0 +1,11 @@
+# Blender v2.69 (sub 0) OBJ File: 'soldier_pretty4.blend'
+# www.blender.org
+mtllib nsoldier_gun_slot.mtl
+o Cube.001_Cube
+v 0.189008 1.503475 -0.777962
+v 0.189008 1.273124 -0.777962
+v 0.254599 1.503475 -2.072015
+vn 0.998718 -0.000000 0.050621
+usemtl None.002
+s off
+f 1//1 2//1 3//1
